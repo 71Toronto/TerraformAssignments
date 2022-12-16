@@ -37,4 +37,6 @@ To carry out this project, the following steps should be followed.
 
 •	Type terraform plan to check the outcome of the code and if everything is OK, type terraform apply.
 
-https://github.com/71Toronto/TerraformAssignments/blob/main/terraform%20a1.jpg
+•	At the end, when you go to Azure portal, you will see a diagram similar to the following one.
+
+![Github Image](https://github.com/71Toronto/TerraformAssignments/blob/main/terraform%20a1.jpg)

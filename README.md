@@ -33,7 +33,7 @@ To carry out this project, the following steps should be followed.
 
 •	Make the necessary configuration/settings and naming on storage.tf file and save it.
 
-•	Type terraform "init command" on the CLI and log in the Azure account by typing "az login".
+•	Type "terraform init" command on the CLI and log in the Azure account by typing "az login".
 
 •	Type "terraform plan" to check the outcome of the code and if everything is OK, type "terraform apply".
 

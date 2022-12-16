@@ -36,3 +36,5 @@ To carry out this project, the following steps should be followed.
 •	Type terraform init command on the CLI and log in the Azure account by typing az login.
 
 •	Type terraform plan to check the outcome of the code and if everything is OK, type terraform apply.
+
+https://github.com/71Toronto/TerraformAssignments/blob/main/terraform%20a1.jpg
